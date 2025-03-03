@@ -4,9 +4,9 @@ Hey there! This is a data analysis project that I worked on. It's a Jupyter Note
 
 ## What This Project Does
 
-- Loads and processes data
-- Performs some analysis (charts, stats, or trends—whatever I needed to figure out)
-- Uses Python libraries to get the job done efficiently
+- Loads and processes kc_house_data DataSet
+- Performs some analysis (charts, stats, or trends—whatever I needed to figure out) on the kc_house_data DataSet to predict prices
+- Uses Python libraries
 
 ## How to Use It
 
